@@ -46,7 +46,7 @@ width: 100%;
     text-transform: uppercase;
     text-decoration: none;
     display: inline-block;
-    margin: 0 25px;
+    margin: 0 50px;
     position: relative;
 }
 .menu ul li:last-child a{
